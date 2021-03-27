@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439800765812",
+    "project_id": "fir-login-83ac7",
+    "storage_bucket": "fir-login-83ac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439800765812:android:6308e4526a082364162021",
+        "android_client_info": {
+          "package_name": "com.areeb.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439800765812-agnv6hdd3k6lii5gfoc97bi3k0r38akq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVYiownMGQorJ9X4--98ej2tEyHtyHXkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439800765812-agnv6hdd3k6lii5gfoc97bi3k0r38akq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
